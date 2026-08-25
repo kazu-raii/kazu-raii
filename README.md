@@ -4,7 +4,7 @@
 
 ---
 
-> Passionate about building interactive systems, efficient backends, and sleek user interfaces. Currently an Information Technology student, actively seeking freelancing opportunities.
+> Passionate about building interactive systems and sleek user interfaces. Currently an Information Technology student, actively seeking freelancing opportunities.
 
 ---
 
