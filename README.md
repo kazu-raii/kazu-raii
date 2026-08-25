@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Rameses Pelayo!
 
-<!--
-**kazu-raii/kazu-raii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `kazu-raii` | Software Developer & UI Designer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Passionate about building interactive systems, efficient backends, and sleek user interfaces. Currently an Information Technology student, actively seeking freelancing opportunities.
+
+---
+
+### 💻 **Skills & Tools**
+
+<p align="left">
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B" alt="C++"></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://luau-lang.org/"><img src="https://img.shields.io/badge/Luau-00A2FF?logo=Roblox" alt="Luau"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" alt="CSS3"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=Git" alt="Git"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-222222?logo=GitHub" alt="GitHub"></a>
+  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma"></a>
+</p>
+
+---
+
+### 📫 **Connect with Me**
+
+* 📩 **Email:** `ramesespelayo1@gmail.com`
+* 💻 **GitHub:** [kazu-raii](https://github.com/kazu-raii)
+
+---
+
+### 📊 **My GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kazu-raii&show_icons=true&theme=dark" alt="kazu-raii GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-raii&layout=compact&theme=dark" alt="kazu-raii Top Languages">
+</p>
