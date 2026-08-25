@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Rameses Pelayo!
 
-## `kazu-raii` | Software Developer & UI Designer
+## `kazu-raii` | Software Developer
 
 ---
 
@@ -18,7 +18,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" alt="CSS3"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=Git" alt="Git"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-222222?logo=GitHub" alt="GitHub"></a>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white" alt="Figma"></a>
 </p>
 
 ---
