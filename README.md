@@ -29,3 +29,9 @@
 * 💻 **GitHub:** [kazu-raii](https://github.com/kazu-raii)
 
 ---
+
+### 📊 **My GitHub Activity**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazu-raii&theme=tokyonight" alt="kazu-raii streak" />
+</p>
