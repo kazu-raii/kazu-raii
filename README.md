@@ -33,10 +33,6 @@
 ### 📊 **My GitHub Stats**
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kazu-raii&show_icons=true&theme=tokyonight&count_private=true" alt="kazu-raii GitHub Stats" width="400"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-raii&layout=compact&theme=tokyonight&hide=html,css" alt="kazu-raii Top Languages" width="350"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kazu-raii&show_icons=true&theme=tokyonight" alt="kazu-raii GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-raii&layout=compact&theme=tokyonight" alt="kazu-raii Top Languages" width="350"/>
 </p>
