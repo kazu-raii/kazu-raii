@@ -16,6 +16,8 @@
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white" alt="HTML5"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white" alt="CSS3"></a>
+
+  <!-- Tools & Platforms -->
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=Git" alt="Git"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-222222?logo=GitHub" alt="GitHub"></a>
 </p>
@@ -26,7 +28,7 @@
 
 * 📩 **Email:** `ramesespelayo1@gmail.com`
 * 💻 **GitHub:** [kazu-raii](https://github.com/kazu-raii)
-
+  
 ---
 
 ### 📊 **My GitHub Activity**
