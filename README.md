@@ -29,10 +29,3 @@
 * 💻 **GitHub:** [kazu-raii](https://github.com/kazu-raii)
 
 ---
-
-### 📊 **My GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazu-raii&show_icons=true&theme=tokyonight" alt="kazu-raii GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-raii&layout=compact&theme=tokyonight" alt="kazu-raii Top Languages" width="350"/>
-</p>
